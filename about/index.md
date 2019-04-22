@@ -12,7 +12,6 @@ comments: false
 ## Introduce
 --------------
 
-* Phone : 010-5027-4328
 * Email : bangdjh2@gmail.com
 * Blog : https://jeonghoonb.github.io
 * Github : https://github.com/jeonghoonb
