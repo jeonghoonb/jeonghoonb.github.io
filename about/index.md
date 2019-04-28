@@ -12,9 +12,9 @@ comments: false
 ## Introduce
 --------------
 
-* Email : bangdjh2@gmail.com
-* Blog : https://jeonghoonb.github.io
-* Github : https://github.com/jeonghoonb
+* Email : <bangdjh2@gmail.com>
+* Blog : <https://jeonghoonb.github.io>
+* Github : <https://github.com/jeonghoonb>
 <br>
 
 ## Skill Set
