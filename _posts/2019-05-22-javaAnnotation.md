@@ -13,7 +13,7 @@ comments: true
 
 소스 코드에 추가하여 사용 할 수 있는 메타데이터의 일종, JDK 1.5 버전 이상에서 사용
 
-[![was](https://jeonghoonb.github.io/assets/img/post_2019/2019522_javaannotation_01.png)](https://jeonghoonb.github.io/assets/img/post_2019/2019522_javaannotation_01.png)
+[![java annotation](https://jeonghoonb.github.io/assets/img/post_2019/20190522_javaannotation_01.png)](https://jeonghoonb.github.io/assets/img/post_2019/20190522_javaannotation_01.png)
 
 <br>
 
